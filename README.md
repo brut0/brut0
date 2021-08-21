@@ -1,4 +1,22 @@
-### Hi there 👋
+### Sergey Zemskov
+
+### Education
+
+*Specialist* in Computer science, The Moscow State Technical University of Civil Aviation (MSTU CA), Moscow 2013
+
+### Skills
+
+* Python + ML (Numpy, Pandas, Scikit-learn, Tensorflow, CatBoost)
+* SQL
+
+### Self-education
+
+* Yandex.Praktikum Data Scientist
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=brut0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brut0)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **brut0/brut0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,8 +6,10 @@
 
 ### Skills
 
-* Python + ML (Numpy, Pandas, Scikit-learn, Tensorflow, CatBoost)
+* Python + ML (Table, CV, NLP)
 * SQL
+* C/C++
+Tech Stack: Numpy, Pandas, Scikit-learn, Scipy, statsmodels, Keras, CatBoost, XGBoost, LightGBM, pymystem, textblob, spacy
 
 ### Self-education
 

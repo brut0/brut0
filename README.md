@@ -8,7 +8,8 @@
 
 * Python + ML (Table, CV, NLP)
 * SQL
-* C/C++
+* C/C++  
+
 Tech Stack: Numpy, Pandas, Scikit-learn, Scipy, statsmodels, Keras, CatBoost, XGBoost, LightGBM, pymystem, textblob, spacy
 
 ### Self-education

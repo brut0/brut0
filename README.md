@@ -10,7 +10,7 @@
 * SQL
 * C/C++  
 
-Tech Stack: Numpy, Pandas, Scikit-learn, Scipy, statsmodels, Keras, CatBoost, XGBoost, LightGBM, pymystem, textblob, spacy
+Tech Stack: Numpy, Pandas, Scikit-learn, Scipy, statsmodels, TensorFlow, Keras, CatBoost, XGBoost, LightGBM, pymystem, textblob, spacy
 
 ### Self-education
 

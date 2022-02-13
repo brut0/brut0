@@ -6,7 +6,8 @@
 
 ### Skills
 
-* Python + ML (Table, CV, NLP)
+* DS (ML, CV, NLP)
+* Python
 * SQL
 * C/C++  
 

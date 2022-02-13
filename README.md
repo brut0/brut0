@@ -16,9 +16,14 @@ Tech Stack: Numpy, Pandas, Scikit-learn, Scipy, statsmodels, TensorFlow, Keras, 
 ### Self-education
 
 * Yandex.Praktikum Data Scientist
+* Coursera Data Science Specialization IBM
+* Deep Learning School MIPT
+
+[<img src=https://github.com/tuomastik/icons/blob/master/kaggle_logo/kaggle_logo_blue_512x512.svg width="32" height="32" alt="Kaggle"/>](https://www.kaggle.com/sergeyzemskov) - Kaggle  
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=brut0)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=brut0)](https://github.com/anuraghazra/github-readme-stats)  
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brut0)](https://github.com/anuraghazra/github-readme-stats)
 
 

@@ -17,7 +17,7 @@ Tech Stack: Numpy, Pandas, Scikit-learn, Scipy, statsmodels, PyTorch, TensorFlow
 
 * Yandex.Praktikum Data Scientist
 * Coursera Data Science Specialization IBM
-* Deep Learning School MIPT
+* Deep Learning School (part 1, Advanced) MIPT
 
 [<img src=https://github.com/tuomastik/icons/blob/master/kaggle_logo/kaggle_logo_blue_512x512.svg width="32" height="32" alt="Kaggle"/>](https://www.kaggle.com/sergeyzemskov) - Kaggle  
 
